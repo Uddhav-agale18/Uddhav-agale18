@@ -34,16 +34,11 @@ I am a passionate Full-Stack Developer with a focus on creating scalable, mainta
 - **Email:** agaleuddhav@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/uddhavagale968941/
 
-💼 Experience
-I have gained experience working on a variety of projects during my internship and personal development time. These include:
-
-Building full-stack web applications using the MEAN stack
-Intern at Galaxy Fintech Pvt Ltd, Aurangabad | 3 Months
-During my internship, I worked on developing and maintaining web applications using MongoDB, Express.js, Angular, and Node.js. I was responsible for implementing responsive UI/UX designs, integrating RESTful APIs, and managing databases to ensure seamless functionality and performance.
-
+## 💼 Experience
+I have gained experience working on a variety of projects during my internship and personal development time. 
+During my internship, I worked on developing and maintaining web applications using MongoDB, Express.js, Angular, and Node.js. I was responsible for implementing responsive UI/UX designs, integrating RESTful APIs, and managing databases to ensure seamless functionality and performance. Through this experience, I gained practical knowledge in Angular, Node.js, Express.js, MongoDB, and NgRx.
 Implementing responsive UI/UX designs
 I have hands-on experience in creating user-friendly interfaces that are responsive and accessible across various devices and screen sizes.
-
 Working with RESTful APIs and database management
 I have developed and consumed RESTful APIs and have experience in managing databases to support full-stack web applications.
 
