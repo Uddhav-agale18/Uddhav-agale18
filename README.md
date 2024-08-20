@@ -32,26 +32,27 @@ I am a passionate Full-Stack Developer with a focus on creating scalable, mainta
 
 ## 📫 How to reach me
 - **Email:** agaleuddhav@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/uddhavagale9689
+- **LinkedIn:** https://www.linkedin.com/in/uddhavagale968941/
 
-
-## 💼 Experience
-
+💼 Experience
 I have gained experience working on a variety of projects during my internship and personal development time. These include:
 
-- **Building full-stack web applications**
-- **Implementing responsive UI/UX designs**
-- **Working with RESTful APIs and database management**
+Building full-stack web applications using the MEAN stack
+Intern at Galaxy Fintech Pvt Ltd, Aurangabad | 3 Months
+During my internship, I worked on developing and maintaining web applications using MongoDB, Express.js, Angular, and Node.js. I was responsible for implementing responsive UI/UX designs, integrating RESTful APIs, and managing databases to ensure seamless functionality and performance.
 
-## 📄 Certifications & Education
+Implementing responsive UI/UX designs
+I have hands-on experience in creating user-friendly interfaces that are responsive and accessible across various devices and screen sizes.
+
+Working with RESTful APIs and database management
+I have developed and consumed RESTful APIs and have experience in managing databases to support full-stack web applications.
+
+## 📄Education
 
 - **MCA** - MGM University Aurangabad Maharashtra, 2023
 - **BCA** - BAMU University Aurangabad Maharashtra, 2021
-
-
 ---
+Feel free to connect with me on https://www.linkedin.com/in/uddhavagale968941/ or agaleuddhav@gmail.com/9689419616.
 
-Feel free to connect with me on  https://www.linkedin.com/in/uddhavagale9689 or agaleuddhav@gmail.com/9689419616.
-
-Thanks for stopping by!
+Thanks You!
 
