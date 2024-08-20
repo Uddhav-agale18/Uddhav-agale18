@@ -34,10 +34,19 @@ Git, GitHub | npm, Composer
 - **LinkedIn:** https://www.linkedin.com/in/uddhavagale968941/
 
 ## 💼 Experience
-**Intern at Galaxy Fintech Pvt Ltd, Aurangabad | 3 Months**
-During my 3-month internship at Galaxy Fintech Pvt Ltd, Aurangabad, I developed and maintained full-stack web applications using the MEAN stack (MongoDB, Express.js, Angular, Node.js). I was responsible for building responsive UI/UX designs, integrating RESTful APIs, and managing databases. This hands-on experience deepened my expertise in Angular, Node.js, Express.js, MongoDB, and NgRx.
+
+### Internship at Galaxy Fintech Pvt Ltd, Aurangabad | 3 Months
+
+During my internship, I developed and maintained full-stack web applications using the MEAN stack (MongoDB, Express.js, Angular, Node.js). My responsibilities included:
+
+- **Building Responsive UI/UX Designs:** Crafted user-friendly interfaces that are responsive across devices.
+- **Integrating RESTful APIs:** Connected front-end and back-end services to ensure seamless data flow.
+- **Managing Databases:** Handled database operations and optimizations for performance.
+
+This experience honed my skills in Angular, Node.js, Express.js, MongoDB, and NgRx.
+
 ---
 Feel free to connect with me on https://www.linkedin.com/in/uddhavagale968941/ or agaleuddhav@gmail.com/9689419616.
 
-Thanks You!
+Thank You!
 
